@@ -9,11 +9,10 @@ $('.overlay').on('click', function() {
 
 
 	}); 
-});
+
 
 // MODAL EXPERIMENT
 
-$(document).ready(function() {
 
 	$('.js-show-modal').on('click', function(event) {
 		event.preventDefault();
